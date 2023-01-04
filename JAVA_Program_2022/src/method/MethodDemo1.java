@@ -1,7 +1,5 @@
 package method;
 
-import classdbody.ClassDemo1;
-
 public class MethodDemo1 {
 
 	// non-static method
