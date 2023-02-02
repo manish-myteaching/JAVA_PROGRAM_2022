@@ -1,6 +1,6 @@
 package staticdemo;
 
-public class StatucDemo1 {
+public class StatucVarMethodDemo {
 	
 	// variable
 	static	int i;  //class variable (predefined)

@@ -1,9 +1,10 @@
 package demo;
 
-public  class Employee {
+
+
+public class Employee {
 	
 	static String companyName ="TCS";
-	
     String employeeRollNo;
     String employeeName;
    
@@ -24,6 +25,7 @@ public  class Employee {
 		System.out.println("getEmployeeDetails");
 		System.out.println(employeeRollNo + " || "+employeeName +" || "+companyName);
 	}
+	
 	public void m() {
 		this.getEmployeeDetails();
 	}
